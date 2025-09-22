@@ -10,13 +10,13 @@ Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/Linked
 
 # 📈 Projects:
 
-<table>
+<table style="width:100%;table-layout:fixed;">
   <tr>
-  <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="33%">
       <a href="https://github.com/alxdmchk/salary-prediction">
-        <img src="img/salary-prediction.jpg" alt="Salary Prediction" width="100%" style="border-radius:6px;display:block;" />
-        <h3>Salary Prediction</h3>
+        <img src="img/salary-prediction.jpg" alt="Salary Prediction" style="border-radius:6px;display:block;width:100%;height:auto;max-width:300px;" />
       </a>
+      <h3><a href="https://github.com/alxdmchk/salary-prediction">Salary Prediction</a></h3>
       <p>Machine learning models for predicting salary with explainability</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
@@ -32,9 +32,9 @@ Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/Linked
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://github.com/alxdmchk/music-lyrics-analysis">
-        <img src="img/music-lyrics-analysis.jpg" alt="Music Lyrics Analysis" width="100%" style="border-radius:6px;display:block;" />
-        <h3>Music Lyrics Analysis</h3>
+        <img src="img/music-lyrics-analysis.jpg" alt="Music Lyrics Analysis" style="border-radius:6px;display:block;width:100%;height:auto;max-width:300px;" />
       </a>
+      <h3><a href="https://github.com/alxdmchk/music-lyrics-analysis">Music Lyrics Analysis</a></h3>
       <p>Topic modeling, clustering and sentiment analysis of song lyrics from 1950 to 2019</p>
       <p>
         <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white"/>
@@ -46,9 +46,9 @@ Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/Linked
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://github.com/alxdmchk/ski-season-analysis">
-        <img src="img/ski-season-analysis.jpg" alt="Ski Season Analysis" width="100%" style="border-radius:6px;display:block;" />
-        <h3>Ski Season Analysis</h3>
+        <img src="img/ski-season-analysis.jpg" alt="Ski Season Analysis" style="border-radius:6px;display:block;width:100%;height:auto;max-width:300px;" />
       </a>
+      <h3><a href="https://github.com/alxdmchk/ski-season-analysis">Ski Season Analysis</a></h3>
       <p>Exploratory analysis of ski season in Low Tatras from 1970 to 2020</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
@@ -61,11 +61,11 @@ Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/Linked
     </td>
   </tr>
   <tr>
-      <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="33%">
       <a href="https://github.com/alxdmchk/brocopy">
-        <img src="img/brocopy.jpg" alt="Brocopy" width="100%" style="border-radius:6px;display:block;" />
-        <h3>Brocopy</h3>
+        <img src="img/brocopy.jpg" alt="Brocopy" style="border-radius:6px;display:block;width:100%;height:auto;max-width:300px;" />
       </a>
+      <h3><a href="https://github.com/alxdmchk/brocopy">Brocopy</a></h3>
       <p>Python tool to copy files from damaged drives, with flexible user-defined settings</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
@@ -73,9 +73,9 @@ Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/Linked
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://github.com/alxdmchk/global-tourism-expenditures">
-        <img src="img/global-tourism-expenditures.jpg" alt="Global Tourism Expenditures" width="100%" style="border-radius:6px;display:block;" />
-        <h3>Global Tourism Expenditures</h3>
+        <img src="img/global-tourism-expenditures.jpg" alt="Global Tourism Expenditures" style="border-radius:6px;display:block;width:100%;height:auto;max-width:300px;" />
       </a>
+      <h3><a href="https://github.com/alxdmchk/global-tourism-expenditures">Global Tourism Expenditures</a></h3>
       <p>Unsupervised clustering of global tourism expenditures for international travel</p>
       <p>
         <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white"/>
@@ -87,9 +87,9 @@ Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/Linked
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://github.com/alxdmchk/gismeteo-parser">
-        <img src="img/gismeteo.jpg" alt="Gismeteo Parser" width="100%" style="border-radius:6px;display:block;" />
-        <h3>Gismeteo Parser</h3>
+        <img src="img/gismeteo.jpg" alt="Gismeteo Parser" style="border-radius:6px;display:block;width:100%;height:auto;max-width:300px;" />
       </a>
+      <h3><a href="https://github.com/alxdmchk/gismeteo-parser">Gismeteo Parser</a></h3>
       <p>Scraping and structuring weather data with BeautifulSoup, Scrapy and Selenium.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
