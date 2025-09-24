@@ -1,5 +1,8 @@
 # 👋 About Me:
-Hi, my name is Alex. <br>At the moment, I work as a Data Analyst and am developing my skills to become a professional Data Scientist. <br>Also, I have completed Master’s program in Data Science and Business Analytics at Warsaw University and am now focused solely on finalizing and defending my Master Thesis, where I explore the intricate world of audio analysis, focusing on the segmentation and classification of sound. <br>Always brimming with enthusiasm to connect with others, and I eagerly seek to collaborate on captivating projects within the realms of data analysis, machine learning, deep learning, and artificial intelligence. <br>Alongside this, I am diligently expanding my expertise, embarking on a learning adventure with TensorFlow and PyTorch, tools that promise to unlock new dimensions in my research and beyond.
+Hi, I am Alex, a Product & Data Analyst transitioning into Data Science.<br>
+I hold a Master’s degree in Data Science and Business Analytics from Warsaw University and am finalizing my thesis on audio analysis, focusing on segmentation and classification using machine learning techniques.<br>
+I am skilled in Python, R, SQL, and am expanding expertise with TensorFlow and PyTorch for deep learning.<br>
+I seek to collaborate on impactful projects in data analysis, machine learning, and artificial intelligence, and am open to remote opportunities.
 
 Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alxdmchk) — I’ll be glad to connect!
 <br><br>
