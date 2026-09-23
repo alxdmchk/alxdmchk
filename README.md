@@ -1,8 +1,14 @@
 # 👋 About Me:
-Hi, I am Alex, a Product & Data Analyst transitioning into Data Science.<br>
-I hold a Master’s degree in Data Science and Business Analytics from Warsaw University and am finalizing my thesis on audio analysis, focusing on segmentation and classification using machine learning techniques.<br>
-I am skilled in Python, R, SQL, and am expanding expertise with TensorFlow and PyTorch for deep learning.<br>
-I seek to collaborate on impactful projects in data analysis, machine learning, and artificial intelligence, and am open to remote opportunities.
+
+Hi there, I'm Alex 👋<br>
+
+I am a Product Analyst transitioning into Data Science, with a strong technical foundation in machine learning, statistics, and predictive modeling.<br>
+
+* 🔭 **Currently working on:** Finalizing my Master's thesis in Data Science at the University of Warsaw, focused on automatic audio segmentation and classification using ML algorithms.<br>
+* 💻 **Tech Stack:** Python, SQL, R, and expanding expertise in deep learning with TensorFlow and PyTorch.<br>
+* 📊 **Day-to-day:** Translating complex behavioral data into actionable product strategies through rigorous statistical analysis and A/B testing.<br>
+* 📫 **Open to:** Roles in Data Science, data-heavy analytics, and collaborations on impactful ML/AI projects (remote-friendly).<br>
+
 
 Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alxdmchk) — I’ll be glad to connect!
 <br><br>
