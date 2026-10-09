@@ -43,7 +43,7 @@ Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/Linked
       <a href="https://github.com/alxdmchk/music-lyrics-analysis">
         <img src="img/music-lyrics-analysis.jpg" alt="Music Lyrics Analysis" style="border-radius:6px;display:block;width:100%;height:auto;max-width:300px;" />
       </a>
-      <h3><a href="https://github.com/alxdmchk/music-lyrics-analysis">Music Lyrics Analysis</a></h3>
+      <h3><a href="https://github.com/alxdmchk/music-lyrics-analysis">Music Lyrics Text Mining</a></h3>
       <p>Topic modeling, clustering and sentiment analysis of song lyrics from 1950 to 2019</p>
       <p>
         <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white"/>
