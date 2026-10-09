@@ -58,7 +58,7 @@ Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/Linked
         <img src="img/ski-season-analysis.jpg" alt="Ski Season Analysis" style="border-radius:6px;display:block;width:100%;height:auto;max-width:300px;" />
       </a>
       <h3><a href="https://github.com/alxdmchk/ski-season-analysis">Ski Season Analysis</a></h3>
-      <p>Exploratory analysis of ski season in Low Tatras from 1970 to 2020</p>
+      <p>Exploratory analysis of ski season in High Tatras from 1970 to 2020</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
         <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
